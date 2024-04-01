@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Tanuj</h1>
-<h3>A passionate developer based in USA🇺🇸🦅</h3>
 
-- 🔭 I’m currently working on [CosmoPunk NFT](https://github.com/tanujn45/cosmoNFT)
+- 🔭 I’m currently working on [CosmoPunk NFT](https://github.com/tanujn45/cosmoNFT) and [CosmoChat](https://github.com/tanujn45/CosmoChat)
 
 - 🌱 I’m currently learning **Blockchain**
 
