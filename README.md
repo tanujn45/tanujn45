@@ -12,4 +12,5 @@
 <a href="https://linkedin.com/in/tanujn45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanujn45" height="30" width="40" /></a>
 </p>
 
+<img src="https://wakatime.com/share/@018e9abd-1aa4-4aa6-9db7-5ca3b999e810/bbdaf69e-643a-48bc-90ab-131ac0612c28.svg"/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanujn45&show_icons=true&locale=en&layout=compact" alt="tanujn45" /></p>
