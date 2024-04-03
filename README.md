@@ -15,6 +15,19 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 27 March 2024 - To: 03 April 2024
+
+Total Time: 4 hrs 9 mins
+
+Python       2 hrs 38 mins   ████████████████░░░░░░░░░   63.52 %
+JavaScript   52 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
+JSON         25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@018e9abd-1aa4-4aa6-9db7-5ca3b999e810/7cf6a2d0-3739-4b1d-8bab-8ee36d3f8d02.svg" width="600"/>
