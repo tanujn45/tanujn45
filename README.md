@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning: **Blockchain**
 
-- 📫 Reach me **tanujn45@gmail.com**
+- 📫 Reach me: **tanujn45@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
