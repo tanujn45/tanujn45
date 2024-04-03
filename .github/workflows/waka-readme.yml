@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every 2 hours
-    - cron: "*/2 * * * *"
+    - cron: "0 */2 * * *"
 
 jobs:
   update-readme:
@@ -19,3 +19,5 @@ jobs:
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+          LANG_COUNT: 10
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics 😎👉👉
