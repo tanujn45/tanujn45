@@ -20,20 +20,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2024 - To: 17 April 2024
+From: 11 April 2024 - To: 18 April 2024
 
-Total Time: 34 hrs 53 mins
+Total Time: 35 hrs 23 mins
 
-Python            15 hrs 17 mins  ███████████░░░░░░░░░░░░░░   43.82 %
-TypeScript        10 hrs 37 mins  ███████▓░░░░░░░░░░░░░░░░░   30.47 %
-JavaScript        2 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-Solidity          2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-JSON              1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Text              34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Java              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-TSConfig          12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-CSS               10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+TypeScript        13 hrs 52 mins  █████████▓░░░░░░░░░░░░░░░   39.19 %
+Python            13 hrs 48 mins  █████████▓░░░░░░░░░░░░░░░   39.01 %
+Solidity          2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+JSON              1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+JavaScript        1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Text              59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+TSConfig          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Java              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 XML               7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Kotlin            6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
