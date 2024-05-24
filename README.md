@@ -20,13 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2024 - To: 23 May 2024
+From: 17 May 2024 - To: 24 May 2024
 
-Total Time: 6 hrs 18 mins
+Total Time: 4 hrs 11 mins
 
-XML      3 hrs 19 mins   █████████████▒░░░░░░░░░░░   52.81 %
-Java     2 hrs 54 mins   ███████████▓░░░░░░░░░░░░░   46.22 %
-Kotlin   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Java         1 hr 51 mins    ███████████░░░░░░░░░░░░░░   44.10 %
+XML          1 hr 29 mins    █████████░░░░░░░░░░░░░░░░   35.35 %
+Rust         43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
+Kotlin       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Vim Script   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
