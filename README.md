@@ -20,20 +20,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
-Total Time: 16 hrs 52 mins
+Total Time: 18 hrs 30 mins
 
-Java              9 hrs 4 mins    █████████████▒░░░░░░░░░░░   53.79 %
-XML               2 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
-Python            1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Rust              1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-Kotlin            1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-RPMSpec           1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-Other             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Groovy            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Properties        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Shell Script      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Java              12 hrs 8 mins   ████████████████▒░░░░░░░░   65.60 %
+XML               3 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
+Kotlin            1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Rust              1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Groovy            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Properties        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Shell Script      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Java Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+TOML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
