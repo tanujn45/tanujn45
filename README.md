@@ -20,16 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2024 - To: 17 June 2024
+From: 11 June 2024 - To: 18 June 2024
 
-Total Time: 3 hrs 23 mins
+Total Time: 3 hrs 9 mins
 
-Rust          1 hr 46 mins    █████████████░░░░░░░░░░░░   52.43 %
-Python        51 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.39 %
-Java          40 mins         █████░░░░░░░░░░░░░░░░░░░░   19.71 %
-INI           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Kotlin        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Rust          1 hr 46 mins    ██████████████░░░░░░░░░░░   56.28 %
+Python        51 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
+Java          26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
+INI           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
