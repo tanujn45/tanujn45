@@ -20,12 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2024 - To: 19 June 2024
+From: 13 June 2024 - To: 20 June 2024
 
-Total Time: 1 hr 57 mins
+Total Time: 1 hr 23 mins
 
-Rust     1 hr 18 mins    ████████████████▓░░░░░░░░   66.74 %
-Python   39 mins         ████████▒░░░░░░░░░░░░░░░░   33.26 %
+Rust   1 hr 23 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
