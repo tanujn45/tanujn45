@@ -20,11 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2024 - To: 20 June 2024
+From: 14 June 2024 - To: 21 June 2024
 
-Total Time: 1 hr 23 mins
+Total Time: 3 hrs 8 mins
 
-Rust   1 hr 23 mins    █████████████████████████   100.00 %
+Java         1 hr 57 mins    ███████████████▓░░░░░░░░░   62.07 %
+Rust         54 mins         ███████▒░░░░░░░░░░░░░░░░░   29.00 %
+Kotlin       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+XML          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
