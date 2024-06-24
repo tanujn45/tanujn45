@@ -4,7 +4,7 @@
 
 - 🔭 Personal projects currently working on: [CosmoPunk NFT](https://github.com/tanujn45/CosmoNFT), [CosmoChat](https://github.com/tanujn45/CosmoChat)
 
-- 🌱 Currently learning: **Blockchain**
+- 🌱 Currently learning: **Rust**
 
 - 📫 Reach me: **tanujn45@gmail.com**
 
