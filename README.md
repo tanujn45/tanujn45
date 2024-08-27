@@ -2,7 +2,7 @@
 
 - 🔬 Research Associate: [A11y Labs](https://a11y.ist.psu.edu/) @ Penn State 
 
-- 🔭 Personal projects currently working on: [CosmoPunk NFT](https://github.com/tanujn45/CosmoNFT), [CosmoChat](https://github.com/tanujn45/CosmoChat)
+- 🔭 Personal projects currently working on: [tjGameEngine](https://github.com/tanujn45/tjGameEngine), [nesEmulator](https://github.com/tanujn45/nesEmulator)
 
 - 🌱 Currently learning: **Rust**
 
