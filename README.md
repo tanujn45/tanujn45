@@ -20,14 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2024 - To: 02 October 2024
+From: 26 September 2024 - To: 03 October 2024
 
-Total Time: 11 hrs 6 mins
+Total Time: 12 hrs 8 mins
 
-Java    7 hrs 23 mins   ████████████████▓░░░░░░░░   66.51 %
-XML     2 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   19.51 %
-C++     1 hr 26 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-Other   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Java    8 hrs 12 mins   █████████████████░░░░░░░░   67.54 %
+XML     2 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   19.49 %
+C++     1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+Other   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Git     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
