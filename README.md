@@ -4,7 +4,7 @@
 
 - 🔭 Personal projects currently working on: [tjGameEngine](https://github.com/tanujn45/tjGameEngine), [nesEmulator](https://github.com/tanujn45/nesEmulator)
 
-- 🌱 Currently learning: **Rust**
+- 🌱 Currently learning: **Golang**
 
 - 📫 Reach me: **tanujn45@gmail.com**
 
