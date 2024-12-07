@@ -20,13 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2024 - To: 06 December 2024
+From: 30 November 2024 - To: 07 December 2024
 
-Total Time: 4 hrs 37 mins
+Total Time: 0 secs
 
-Java       4 hrs 32 mins   ████████████████████████▓   98.30 %
-XML        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
