@@ -20,14 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2024 - To: 11 December 2024
+From: 05 December 2024 - To: 12 December 2024
 
-Total Time: 1 hr 57 mins
+Total Time: 4 hrs 16 mins
 
-HTML         1 hr 30 mins    ███████████████████▒░░░░░   77.01 %
-CSS          26 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java                   1 hr 31 mins    █████████░░░░░░░░░░░░░░░░   35.77 %
+HTML                   1 hr 31 mins    █████████░░░░░░░░░░░░░░░░   35.56 %
+Kotlin                 26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+CSS                    26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+XML                    18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Other                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+JavaScript             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
