@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2024 - To: 12 December 2024
+From: 06 December 2024 - To: 13 December 2024
 
-Total Time: 4 hrs 16 mins
+Total Time: 6 hrs 53 mins
 
-Java                   1 hr 31 mins    █████████░░░░░░░░░░░░░░░░   35.77 %
-HTML                   1 hr 31 mins    █████████░░░░░░░░░░░░░░░░   35.56 %
-Kotlin                 26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-CSS                    26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-XML                    18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Other                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-JavaScript             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Java                   4 hrs 9 mins    ███████████████░░░░░░░░░░   60.22 %
+HTML                   1 hr 31 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
+Kotlin                 26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+CSS                    26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+XML                    18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Other                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JavaScript             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
