@@ -20,16 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2024 - To: 17 December 2024
+From: 11 December 2024 - To: 18 December 2024
 
-Total Time: 8 hrs 20 mins
+Total Time: 10 hrs 14 mins
 
-Java                   6 hrs 1 min     ██████████████████░░░░░░░   72.15 %
-XML                    58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-Python                 52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-Kotlin                 26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-HTML                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Other                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Java                   7 hrs 42 mins   ███████████████████░░░░░░   75.38 %
+XML                    1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Python                 52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+Kotlin                 26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+HTML                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
