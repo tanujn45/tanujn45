@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2025 - To: 15 January 2025
+From: 09 January 2025 - To: 16 January 2025
 
-Total Time: 7 hrs 3 mins
+Total Time: 7 hrs 7 mins
 
-Java         6 hrs 7 mins    █████████████████████▓░░░   86.70 %
-XML          35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-C++          20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Java         6 hrs 11 mins   █████████████████████▓░░░   86.82 %
+XML          35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+C++          20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
