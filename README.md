@@ -20,13 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
-Total Time: 5 hrs 15 mins
+Total Time: 8 hrs 3 mins
 
-Java   4 hrs 19 mins   ████████████████████▓░░░░   82.16 %
-XML    35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-C++    20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Java         5 hrs 40 mins   █████████████████▓░░░░░░░   70.28 %
+XML          1 hr 10 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+C++          1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
