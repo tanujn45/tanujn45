@@ -20,15 +20,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2025 - To: 19 January 2025
+From: 13 January 2025 - To: 20 January 2025
 
-Total Time: 8 hrs 3 mins
+Total Time: 9 hrs 40 mins
 
-Java         5 hrs 40 mins   █████████████████▓░░░░░░░   70.28 %
-XML          1 hr 10 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-C++          1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java         5 hrs 40 mins   ██████████████▓░░░░░░░░░░   58.54 %
+C++          2 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   24.62 %
+XML          1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+TypeScript   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
