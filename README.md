@@ -20,15 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2025 - To: 27 January 2025
+From: 21 January 2025 - To: 28 January 2025
 
-Total Time: 5 hrs 45 mins
+Total Time: 6 hrs 3 mins
 
-Java         4 hrs 6 mins    ██████████████████░░░░░░░   71.43 %
-XML          51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
-C++          40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-TypeScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java         4 hrs 6 mins    █████████████████░░░░░░░░   67.81 %
+C++          58 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+XML          51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+TypeScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
