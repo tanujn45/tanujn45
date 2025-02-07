@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2025 - To: 06 February 2025
+From: 31 January 2025 - To: 07 February 2025
 
-Total Time: 39 mins
+Total Time: 49 mins
 
-Java   31 mins         ████████████████████░░░░░   80.33 %
-XML    7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.67 %
+Java   42 mins         █████████████████████░░░░   84.53 %
+XML    7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
 ```
 
 <!--END_SECTION:waka-->
