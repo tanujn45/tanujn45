@@ -22,13 +22,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2025 - To: 28 February 2025
+From: 22 February 2025 - To: 01 March 2025
 
-Total Time: 4 hrs 31 mins
+Total Time: 3 hrs 59 mins
 
-C++     4 hrs 22 mins   ████████████████████████░   96.40 %
-Other   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Bash    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+C++        3 hrs 21 mins   █████████████████████░░░░   84.21 %
+Java       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+XML        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Other      8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Bash       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
