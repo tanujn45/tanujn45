@@ -22,15 +22,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2025 - To: 17 March 2025
+From: 11 March 2025 - To: 18 March 2025
 
-Total Time: 3 hrs 18 mins
+Total Time: 10 hrs 41 mins
 
-TypeScript   1 hr 40 mins    ████████████▓░░░░░░░░░░░░   50.58 %
-Svelte       1 hr 11 mins    █████████░░░░░░░░░░░░░░░░   36.03 %
-JavaScript   19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Svelte       7 hrs 50 mins   ██████████████████▒░░░░░░   73.34 %
+TypeScript   1 hr 53 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
+Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JavaScript   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Lua          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+netrw        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
