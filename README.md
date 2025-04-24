@@ -22,15 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2025 - To: 23 April 2025
+From: 17 April 2025 - To: 24 April 2025
 
 Total Time: 10 hrs 11 mins
 
-Kotlin           8 hrs 2 mins    ███████████████████▓░░░░░   79.01 %
-TypeScript       1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
-JSON             32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-Bash             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Markdown         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Kotlin           8 hrs 25 mins   ████████████████████▓░░░░   82.65 %
+TypeScript       1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+JSON             31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Markdown         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
