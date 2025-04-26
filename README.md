@@ -22,17 +22,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2025 - To: 25 April 2025
+From: 19 April 2025 - To: 26 April 2025
 
-Total Time: 9 hrs 44 mins
+Total Time: 9 hrs 7 mins
 
-Kotlin           7 hrs 39 mins   ███████████████████▓░░░░░   78.75 %
-TypeScript       1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-JSON             31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Markdown         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Kotlin           5 hrs 49 mins   ████████████████░░░░░░░░░   63.81 %
+TypeScript       2 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   24.12 %
+JSON             31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Markdown         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
