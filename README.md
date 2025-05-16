@@ -22,20 +22,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2025 - To: 15 May 2025
+From: 09 May 2025 - To: 16 May 2025
 
-Total Time: 6 hrs 38 mins
+Total Time: 4 hrs 14 mins
 
-Kotlin                 6 hrs 21 mins   ████████████████████████░   95.83 %
-TOML                   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Java                   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Java Properties        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-XML                    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Markdown               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Properties             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Gradle                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Shell Script           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Kotlin                 4 hrs 1 min     ███████████████████████▓░   94.78 %
+TOML                   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Java Properties        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+XML                    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Java                   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Other                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Markdown               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Properties             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Gradle                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Shell Script           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
