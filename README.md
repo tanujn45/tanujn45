@@ -22,17 +22,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2025 - To: 25 May 2025
+From: 19 May 2025 - To: 26 May 2025
 
-Total Time: 2 hrs 33 mins
+Total Time: 1 hr 48 mins
 
-Kotlin           2 hrs 21 mins   ███████████████████████░░   92.45 %
-Text             7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-gitignore        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Kotlin           1 hr 36 mins    ██████████████████████▒░░   89.29 %
+Text             7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+gitignore        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
