@@ -22,11 +22,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2025 - To: 06 June 2025
+From: 31 May 2025 - To: 07 June 2025
 
-Total Time: 3 hrs 27 mins
+Total Time: 3 hrs 15 mins
 
-Kotlin   3 hrs 27 mins   █████████████████████████   100.00 %
+Kotlin   1 hr 32 mins    ███████████▓░░░░░░░░░░░░░   47.31 %
+conf     53 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.32 %
+TOML     19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+Lua      14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Bash     11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Other    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
