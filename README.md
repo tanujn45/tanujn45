@@ -22,14 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2025 - To: 13 August 2025
+From: 07 August 2025 - To: 14 August 2025
 
-Total Time: 1 hr 42 mins
+Total Time: 0 secs
 
-Kotlin   45 mins         ███████████▒░░░░░░░░░░░░░   44.78 %
-Lua      37 mins         █████████░░░░░░░░░░░░░░░░   36.63 %
-Other    18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
-C++      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
