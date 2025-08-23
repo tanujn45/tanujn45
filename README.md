@@ -22,19 +22,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2025 - To: 22 August 2025
+From: 16 August 2025 - To: 23 August 2025
 
-Total Time: 6 hrs 19 mins
+Total Time: 4 hrs 46 mins
 
-Kotlin                 5 hrs 57 mins   ███████████████████████▓░   94.23 %
-GitIgnore file         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Properties             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Java Properties        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Java                   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-TOML                   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-XML                    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Other                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Kotlin                 4 hrs 36 mins   ████████████████████████░   96.65 %
+Java                   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Java Properties        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+TOML                   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+GitIgnore file         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Properties             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+XML                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
