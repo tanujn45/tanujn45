@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Tanuj</h2>
 
-- 🔬 Research Associate: [A11y Labs](https://a11y.ist.psu.edu/) @ Penn State 
+- 🔬 Software Engineer @ [Robinhood](https://robinhood.com/)
 
 - 🔭 Personal projects currently working on: [tjGameEngine](https://github.com/tanujn45/tjGameEngine), [nesEmulator](https://github.com/tanujn45/nesEmulator)
 
