@@ -4,7 +4,7 @@
 
 - 🔭 Personal projects currently working on: [tjGameEngine](https://github.com/tanujn45/tjGameEngine), [nesEmulator](https://github.com/tanujn45/nesEmulator)
 
-- 🌱 Currently learning: **Golang**
+- 🌱 Currently learning: **kotlin multiplatform**
 
 - 📫 Reach me: **tanujn45@gmail.com**
 
@@ -17,10 +17,11 @@
 </p>
 
 -------
-
+<!--
 📊 **Weekly development breakdown**
+-->
 <!--START_SECTION:waka-->
-
+<!--
 ```txt
 From: 12 December 2025 - To: 19 December 2025
 
@@ -28,9 +29,9 @@ Total Time: 0 secs
 
 No activity tracked
 ```
-
+-->
 <!--END_SECTION:waka-->
 
-<img src="https://wakatime.com/share/@018e9abd-1aa4-4aa6-9db7-5ca3b999e810/4650b67a-98aa-46b4-b598-3d8a2451f0df.svg" width="600"/>
+<!-- <img src="https://wakatime.com/share/@018e9abd-1aa4-4aa6-9db7-5ca3b999e810/4650b67a-98aa-46b4-b598-3d8a2451f0df.svg" width="600"/> -->
 
 -------
